@@ -1,0 +1,45 @@
+---
+title: "Juyi's Insight Hub"
+format: html
+editor: visual
+---
+
+```{r}
+#| label: load-packages
+#| include: false
+
+library(tidyverse)
+library(palmerpenguins)
+```
+
+## Meet Juyi
+
+![](/Users/juyi/Desktop/Juyi_Website/Image/1571874786741.jpeg)
+
+Greetings! I am a first year graduate student \@ UCLA pursuing a Master's Degree in Applied Stats and Data Science, I also hold a Bachelor's Degree from UCLA in Economics.
+
+Here is my LinkedIn <https://www.linkedin.com/in/johnnyyang30/>.
+
+Feel free to reach me at juyiyang30\@gmail.com :)
+
+## My Data Projects
+
+[The Shifting Paradigm of NBA Player Heights](Data%20Projects/Stats-422-HW1-Part-3-.pdf)
+
+-   A simple line graph reveals a decrease in average NBA player height, highlighting a strategic shift towards agility and long-range shooting, influenced by modern basketball styles.
+
+## Coursework
+
+-   Machine Learning
+-   Statistical Computing and Programming
+-   Models in Finance
+-   Data Visualization (In progress)
+-   Data Management (In progress)
+
+## Interests
+
+-   Top 0.5% in Global NBA 2K Gaming
+-   Instagram cooking account
+-   Tea Art specialist
+-   Basketball Enthusiast
+-   singing & Modeling
